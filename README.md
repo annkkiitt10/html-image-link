@@ -10,12 +10,8 @@ This repository contains a basic HTML program that demonstrates how to add image
 ## 💻 Program File
 - image.html
 
-## 📁 Folder Structure
-project/
-│
-├── image.html
-└── images/
-     └── nature.jpg
+#Images
+ nature.png
 
 ## 📋 Output
 - A webpage with a clickable Google link  
