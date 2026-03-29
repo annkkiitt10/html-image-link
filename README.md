@@ -1,30 +1,24 @@
 # 🌐 HTML Image and Link Program
 
-This repository contains a basic HTML program that demonstrates how to add images and hyperlinks to a web page.
+This repository contains a basic HTML program demonstrating how to add images and hyperlinks.
 
 ## 📚 Topics Covered
 - Hyperlinks using <a> tag
 - Images using <img> tag
-- File paths and folder structure in HTML
+- Basic file linking in HTML
 
 ## 💻 Program File
 - image.html
 
-#Images =
- nature.png
+## 📁 Files
+- nature.jpg
 
 ## 📋 Output
 - A webpage with a clickable Google link  
-- An image displayed from a folder  
+- An image displayed on the page  
 
 ## 🎯 Purpose
-To understand how HTML connects external resources like images and links using proper file paths.
-
-## 🚀 How to Run
-1. Download or clone the repository  
-2. Open the project folder  
-3. Double click on `image.html`  
-4. View in browser  
+To understand how to display images and create links in HTML.
 
 ## 👨‍💻 Author
 Ankit Kumar
