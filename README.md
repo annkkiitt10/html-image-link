@@ -10,7 +10,7 @@ This repository contains a basic HTML program that demonstrates how to add image
 ## 💻 Program File
 - image.html
 
-#Images
+#Images =
  nature.png
 
 ## 📋 Output
